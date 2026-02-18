@@ -49,7 +49,7 @@ A rising $D_{KL}$ across recursion depths signifies the successful concentration
 
 ### Installation
 ```bash
-git clone https://github.com/YourUsername/Probabilistic-Semantic-RAG.git
+git clone https://github.com/ashoknepalofficial/Probabilistic-Semantic-RAG.git
 cd Probabilistic-Semantic-RAG
 pip install -r requirements.txt
 ```
